@@ -1,0 +1,14 @@
+{
+	"name": "vsf-multisafepay-service-api",
+	"version": "1.0.0",
+	"description": "Vue Storefront API extenstion for MultiSafepay Payment Service module",
+	"main": "index.ts",
+	"author": "Raúl Mena <raul.mena@multisafepay.com>",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.19.2"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
+}
