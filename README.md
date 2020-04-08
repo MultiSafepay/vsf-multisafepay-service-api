@@ -35,15 +35,7 @@ Add the API extension to the registered extensions to `local/config.json`
 ]
 ```
 
-Andd add the MultiSafepay settings
-
-TEST API
-
-https://testapi.multisafepay.com/v1/json
-
-LIVE API
-
-https://api.multisafepay.com/v1/json
+Add the MultiSafepay settings for the [Test](https://testapi.multisafepay.com/v1/json) or [Live](https://api.multisafepay.com/v1/json) API.
 
 ```json
 "extensions": {
